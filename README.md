@@ -6,5 +6,5 @@ To install mPDF
 - Open command prompt
 - Change directory (CD) to the target location
 - Use this to get a specific version:
--- composer require mpdf/mpdf:6
+  - composer require mpdf/mpdf:6
  
