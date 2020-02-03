@@ -1,5 +1,7 @@
 # mPDF Version 6.1.0
 
+### A very basic example of mPDF using Version 6.1.0 (requires composer to install mPDF)
+
 To install mPDF
 
 - Download composer
